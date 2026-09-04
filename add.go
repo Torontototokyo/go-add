@@ -1,10 +1,10 @@
 package goadd
-
-import "fmt"
-
+import (
+	"fmt"
+)
 // Add returns the sum of a and b.
 func Add(a, b int) int {
-	println("adding")
+	fmt.Println("adding")
 	return a + b
 }
 

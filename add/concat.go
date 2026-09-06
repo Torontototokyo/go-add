@@ -9,4 +9,4 @@ func concat(a string,b string) {
 }
 
 
-var Version = "1.0.0"
+// var Version = "1.0.0"
